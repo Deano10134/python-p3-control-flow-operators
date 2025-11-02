@@ -61,7 +61,7 @@ compare two values:
 Unlike in JavaScript, the `==` function in Python **will not coerce strings to
 numbers** before comparing them, or perform some of the other type coercions
 that JavaScript does. For example, in JavaScript, using the `==` operator can
-lead to some strange behavior:
+lead to some strange behaviour:
 
 ```js
 "1" == 1
